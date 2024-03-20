@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b0535afdd7490ff7e8efd5714c14d6aa00dbde7b",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2019-12-05 19:03:31",
+    "files": 3,
+    "merge": false,
+    "message": "Update docs url\n"
+  },
+  "repo": "https://github.com/ropensci/treestartr",
+  "pkg": "treestartr"
+}
